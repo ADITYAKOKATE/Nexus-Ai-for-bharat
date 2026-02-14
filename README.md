@@ -95,4 +95,5 @@ This project is proprietary and confidential. Unauthorized copying of these file
 
 ---
 
-*Built with ❤️ by the Nexus Team.*
+*Built with ❤️ by the Team Vighnaharta.*
+
