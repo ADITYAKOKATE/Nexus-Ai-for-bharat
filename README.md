@@ -10,7 +10,7 @@
 
 By leveraging advanced AI, Nexus handles the heavy lifting of data analysis, trend forecasting, and format transformation, allowing humans to focus on what matters most: **Creativity and Strategy**.
 
-![Architecture Diagram](./images/Architecture%20Diagram.png)
+![Architecture Diagram](./images/Architecture%20Diagram.jpeg)
 
 ---
 
@@ -96,4 +96,5 @@ This project is proprietary and confidential. Unauthorized copying of these file
 ---
 
 *Built with ❤️ by the Team Vighnaharta.*
+
 
