@@ -31,7 +31,7 @@ The Nexus platform follows a modular monolith architecture with microservices fo
 - Independent scaling for AI workloads
 - Clear module boundaries for future extraction
 
-![Architecture Diagram](./images/Architecture%20Diagram.png)
+![Architecture Diagram](./images/Architecture%20Diagram.jpeg)
 ### Technology Stack
 
 **Frontend**:
@@ -1445,4 +1445,5 @@ test('property: input validation and acceptance', () => {
 - Track coverage trends over time
 - Identify untested code paths
 - Review coverage in pull requests
+
 
